@@ -17,4 +17,6 @@ yarn lint<br/>
   4.购物车的功能<br/>
   5.利用[].filter实现不同条件的过滤<br/>
   
+##项目截图  
+  waimai1.PNG
   
