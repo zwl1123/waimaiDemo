@@ -18,9 +18,7 @@ yarn lint<br/>
   5.利用[].filter实现不同条件的过滤<br/>
   
 ##项目截图  
-  https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai1.PNG
-
-  https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai2.PNG
-  https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai3.PNG
-
-  https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai4.PNG
+  ![](https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai1.PNG)
+  ![](https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai2.PNG)
+  ![](https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai3.PNG)
+  ![](https://raw.githubusercontent.com/zwl1123/waimaiDemo/master/waimai4.PNG)
